@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    border: 0;
+}
+
+body{
+    display: grid;
+    place-content: center;
+}
+
+#img_nft{
+    width: 300px;
+    padding: 20px;
+    padding-left: 50px;
+}
+
+#container {
+    height: 600px;
+    width: 400px;
+    background-color:  hsl(215, 51%, 70%);
+    text-align: justify;
+}
